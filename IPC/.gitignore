@@ -1,0 +1,69 @@
+# Compiled files
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Executables
+out/
+
+# Object files
+*.slo
+*.lo
+*.dylib
+
+# Libraries
+*.a
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+
+# Compiled dynamic libraries
+*.dylib
+
+# User-specific files
+*.rsuser
+*.rsproject
+
+# Visual Studio Code directory
+.vscode/
+
+# macOS
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+build/
+
+# Sublime Text
+*.sublime-workspace
+
+# Eclipse
+.project
+.settings/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+
+# Qt
+*.pro.user
+*.pro.user.*
